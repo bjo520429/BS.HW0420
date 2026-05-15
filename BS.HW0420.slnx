@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Bill Day2 Hw WindowsForms/Bill Day2 Hw WindowsForms.csproj" />
+  <Project Path="Bill Day2 Hw/Bill Day2 Hw.csproj" />
+  <Project Path="case01/case01.csproj" Id="be350f33-713e-431d-8324-1aced70de87f" />
+  <Project Path="case02/case02.csproj" Id="26b6c75b-9052-4013-b47e-a41ce0eb0954" />
+  <Project Path="case03/case03.csproj" Id="b61c422f-f0c6-414f-b55a-2d2d4ab0b9b3" />
+  <Project Path="case04/case04.csproj" Id="3771ae08-6545-4a23-978e-726a6758bfa1" />
+</Solution>
